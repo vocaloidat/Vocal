@@ -1,2 +1,2 @@
 # Vocal
-Encrypted voice communication with no blocking and no account restrictions
+Encrypted voice communication broadcast without blockade and account restrictions
